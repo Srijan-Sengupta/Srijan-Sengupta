@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
+### 🌱 I’m currently learning Javafx and Spring Boot.
+### 🔭 I’m currently working on Spring Boot Projects and creating RESTful APIs.
+## 📫 How to reach me:
+### Email:srijansengupta306@gmail.com
 <!--
 **Srijan-Sengupta/Srijan-Sengupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
